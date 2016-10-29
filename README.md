@@ -1,2 +1,2 @@
-# JupyterDay2016
-Repository for JupyterDay Tutorials and Tech Talks (and stuff)
+# JupyterDayHawaii2016
+Repository for JupyterDay Hawaii 2016 Tutorials and Tech Talks (and stuff)
