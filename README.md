@@ -14,7 +14,7 @@ During this tutorial, you will:
 
 **[01 Installation](01_installation.ipynb):** Install Jupyter Lab, Notebook and assorted tools
 
-**[02 Optional: online access to the class material](02_online_accesss.ipynb):** Have optional online access to the course material
+**[02 Optional: online access to the class material](02_online_access.ipynb):** Have optional online access to the course material
 
 **[03 Project Jupyter Overview](03_project_jupyter_overview.ipynb):** Understand the Jupyter ecosystem and key components in the Jupyter tool suite
 
