@@ -18,16 +18,18 @@ During this tutorial, you will:
 
 **[03 Project Jupyter Overview](03_project_jupyter_overview.ipynb):** Understand the Jupyter ecosystem and key components in the Jupyter tool suite
 
-**[04 Basic Notebooks](04_basic_notebooks.ipynb):** Create basic Notebooks in the Lab user interface
+**[04 Introduction to Lab](04_intro_to_lab.ipynb):** Explore the fundamentals of the JupyterLab Integrated Development Environment 
 
-**[05 Optimizing Your System](05_optimizing_your_system.ipynb):** Optimize your enviroment, by setting configurations
+**[05 Basic Notebooks](04_basic_notebooks.ipynb):** Create basic Notebooks in the Lab user interface
 
-**[06 Tips, Tricks, and More](06_tips_tricks_and_more.ipynb):** Improve your efficiency through tips, tricks and more
+**[06 Optimizing Your System](05_optimizing_your_system.ipynb):** Optimize your enviroment, by setting configurations
 
-**[07 Advanced Uses](07_advanced_uses.ipynb):** Explore advanced uses
+**[07 Tips, Tricks, and More](06_tips_tricks_and_more.ipynb):** Improve your efficiency through tips, tricks and more
 
-**[08 Gotchas](08_gotchas.ipynb):** Understand gotchas and other challenges
+**[08 Advanced Uses](07_advanced_uses.ipynb):** Explore advanced uses
 
-**[09 Sharing_Notebooks](09_sharing_notebooks.ipynb):** Learn how to share Notebooks
+**[09 Gotchas](08_gotchas.ipynb):** Understand gotchas and other challenges
 
-**[10 Widgets and More](10_widgets_and_more.ipynb):** Examine widgets and more
+**[10 Sharing_Notebooks](09_sharing_notebooks.ipynb):** Learn how to share Notebooks
+
+**[11 Widgets and More](10_widgets_and_more.ipynb):** Examine widgets and more
