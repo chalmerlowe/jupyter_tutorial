@@ -1,7 +1,5 @@
 # Using Jupyter Lab, Notebooks and more!
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/chalmerlowe/jupyter_tutorial/master)
-
 A tutorial on:
 
 * Jupyter Lab
